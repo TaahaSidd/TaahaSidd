@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Taaha
 
-<!--
-**TaahaSidd/TaahaSidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer who loves building efficient, scalable, and user-focused web applications. My core tech stack includes:
 
-Here are some ideas to get you started:
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Database:** MySQL, PostgreSQL, H2  
+- **Tools:** Git, Postman, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Currently building:**  
+**StudEx** – a student marketplace app designed for practical utility and a clean, intuitive user experience.
+
+I'm always eager to learn new technologies and take on challenging projects. Let's connect and build something amazing together!
+
+###  My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,springboot,react,js,html,css,postgresql,mysql,git,postman,vscode)](https://skillicons.dev)
+
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/taaha-siddiqui-0293ba253)
