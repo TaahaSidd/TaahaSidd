@@ -7,9 +7,6 @@ I'm a passionate full-stack developer who loves building efficient, scalable, an
 - **Database:** MySQL, PostgreSQL, H2  
 - **Tools:** Git, Postman, VS Code  
 
- **Currently building:**  
-**StudEx** – a student marketplace app designed for practical utility and a clean, intuitive user experience.
-
 I'm always eager to learn new technologies and take on challenging projects. Let's connect and build something amazing together!
 
 ###  My Tech Stack
