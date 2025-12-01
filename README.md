@@ -1,6 +1,7 @@
-### Hi, I'm Taaha
+# Hi, I'm Taaha
 
-I'm a passionate full-stack developer who loves building efficient, scalable, and user-focused web applications. My core tech stack includes:
+A passionate **Full-Stack Developer** building scalable, efficient, and user-focused web applications.  
+I love turning ideas into real products that people enjoy using.  
 
 - **Backend:** Java, Spring Boot, REST APIs  
 - **Frontend:** HTML, CSS, JavaScript, React  
