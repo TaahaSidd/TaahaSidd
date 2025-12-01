@@ -29,8 +29,6 @@
       I focus on building scalable web applications with a clean, user-friendly design.  
       I enjoy experimenting with new technologies, solving problems, and improving my craft every day.
     </p>
-    <p><b>Fun Fact:</b> I debug with console.log and I'm not ashamed! 🐛</p>
-    <p><b>Life Philosophy:</b> Code, Learn, Repeat ♾️</p>
   </td>
 </tr>
 </table>
