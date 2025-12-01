@@ -105,7 +105,7 @@
 <a href="mailto:tahasidd33@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/taaha">
+<a href="https://github.com/TaahaSidd">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </div>
