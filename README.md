@@ -1,6 +1,5 @@
 <!-- ================= Header ================= -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8bc638f4-272d-49a0-a8b1-7b1bc9bceeb3" alt="header" width="100%"/>
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Taaha;Full-Stack+Developer;Building+Digital+Dreams" alt="Typing SVG" />
