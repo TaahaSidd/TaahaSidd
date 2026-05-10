@@ -17,7 +17,8 @@
 <tr>
   <!-- Profile Image -->
   <td width="40%" valign="top" align="center">
-    <img src="https://github.com/user-attachments/assets/a88927aa-3412-4dec-99c3-f8315d299ee7" alt="profile" width="100%"/>
+    <img width="400" height="400" alt="githubReadme" src="https://github.com/user-attachments/assets/acac7e19-f45d-4263-bb1a-44c054306e31" />
+
   </td>
 
   <!-- About Me Text -->
