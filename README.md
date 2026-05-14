@@ -92,8 +92,6 @@
 - Currently working on **exciting full-stack projects**
 - Learning **new technologies and best practices**
 - Open to **collaborate on innovative projects**
-- Ask me about **Java, Spring Boot, React, or anything tech**
-
 ---
 
 <!-- ================= Connect ================= -->
