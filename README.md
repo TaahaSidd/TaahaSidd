@@ -25,7 +25,7 @@
   <td width="60%" valign="top" style="padding-left:20px;">
     <h3>About Me</h3>
     <p>
-      Hi! I'm <b>Taaha</b>, a passionate <b>Full-Stack Developer</b> who loves turning ideas into real products that people love.  
+      Hi! I'm <b>Taaha a Full-Stack Developer</b> who loves turning ideas into real products that people love.  
       I focus on building scalable web applications with a clean, user-friendly design.  
       I enjoy experimenting with new technologies, solving problems, and improving my craft every day.
     </p>
